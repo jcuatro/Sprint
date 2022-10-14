@@ -1,6 +1,6 @@
 let randomWords: any = [];
 let finalWords: any = [];
-let listWords: any = prompt("Escribe una palabra");
+let listWords:any = prompt("Escribe una palabra");
 
 while(listWords != 'Stop'){
   listWords = prompt("Escribe una palabra");
